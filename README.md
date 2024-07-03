@@ -1,2 +1,1 @@
-To do lis which was done using by HTML CSS and JS
-done
+To do list which was created by using only HTML CSS and JS
